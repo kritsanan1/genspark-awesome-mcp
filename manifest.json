@@ -1,0 +1,21 @@
+{
+  "name": "Awesome Startup Tools - Interactive Directory",
+  "short_name": "Startup Tools",
+  "description": "Interactive directory of 285+ curated tools for startups",
+  "version": "2.0.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%232563eb'/><text x='256' y='320' font-size='300' text-anchor='middle'>🚀</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "developer", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}

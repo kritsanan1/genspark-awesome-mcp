@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Startup Tools - Interactive Directory</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+    <meta name="description" content="Interactive directory of 285+ curated tools for startups - AI, hosting, development, marketing, productivity and more">
+    <meta name="keywords" content="startup tools, AI tools, development tools, marketing tools, productivity tools, free tools">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <h1 class="logo">🚀 Awesome Startup Tools</h1>
+                    <p class="subtitle">Interactive directory of 285+ curated tools for startups</p>
+                </div>
+                
+                <div class="header-controls">
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                        <span class="theme-icon">🌙</span>
+                    </button>
+                    
+                    <div class="export-group">
+                        <button id="export-btn" class="export-btn">📥 Export</button>
+                        <div id="export-menu" class="export-menu hidden">
+                            <button class="export-option" data-format="json">JSON</button>
+                            <button class="export-option" data-format="csv">CSV</button>
+                            <button class="export-option" data-format="pdf">PDF</button>
+                        </div>
+                    </div>
+                    
+                    <button id="stats-toggle" class="stats-toggle" aria-label="Toggle stats">
+                        📊
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Stats Panel -->
+        <div id="stats-panel" class="stats-panel hidden">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-tools">285</div>
+                    <div class="stat-label">Total Tools</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="ai-tools">0</div>
+                    <div class="stat-label">AI Tools</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="free-tools">0</div>
+                    <div class="stat-label">Free Tools</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="categories-count">6</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search and Filters -->
+        <section class="search-section">
+            <div class="search-container">
+                <div class="search-box">
+                    <input 
+                        type="text" 
+                        id="search-input" 
+                        placeholder="🔍 Search tools by name, description, or category..."
+                        autocomplete="off"
+                    >
+                    <button id="search-clear" class="search-clear hidden">✕</button>
+                </div>
+                
+                <div class="filter-controls">
+                    <div class="filter-group">
+                        <label for="category-filter">Category:</label>
+                        <select id="category-filter">
+                            <option value="">All Categories</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="pricing-filter">Pricing:</label>
+                        <select id="pricing-filter">
+                            <option value="">All Pricing</option>
+                            <option value="free">Free</option>
+                            <option value="paid">Paid</option>
+                            <option value="freemium">Freemium</option>
+                            <option value="open-source">Open Source</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="ai-filter">AI Tools:</label>
+                        <select id="ai-filter">
+                            <option value="">All Tools</option>
+                            <option value="ai">AI-Based Only</option>
+                            <option value="non-ai">Non-AI Only</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="sort-by">Sort by:</label>
+                        <select id="sort-by">
+                            <option value="name">Name</option>
+                            <option value="category">Category</option>
+                            <option value="popular">Popularity</option>
+                            <option value="newest">Newest</option>
+                        </select>
+                    </div>
+                    
+                    <button id="reset-filters" class="reset-btn">🔄 Reset</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Info -->
+        <section class="results-info">
+            <div class="results-count">
+                <span id="results-count">285</span> tools found
+                <span id="search-term" class="search-term"></span>
+            </div>
+            <div class="view-toggles">
+                <button id="grid-view" class="view-toggle active" data-view="grid">⊞</button>
+                <button id="list-view" class="view-toggle" data-view="list">☰</button>
+            </div>
+        </section>
+
+        <!-- Tools Grid -->
+        <main class="tools-container" id="tools-container">
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Loading tools...</p>
+            </div>
+        </main>
+
+        <!-- No Results -->
+        <div id="no-results" class="no-results hidden">
+            <div class="no-results-content">
+                <div class="no-results-icon">🔍</div>
+                <h3>No tools found</h3>
+                <p>Try adjusting your search or filter criteria</p>
+                <button id="clear-all-filters" class="clear-filters-btn">Clear all filters</button>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2024 Awesome Startup Tools. Curated with ❤️ for the startup community.</p>
+                <div class="footer-links">
+                    <a href="#" id="about-link">About</a>
+                    <a href="#" id="contribute-link">Contribute</a>
+                    <a href="https://github.com/kritsanan1/genspark-awesome-mcp" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Modal for About/Contribute -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

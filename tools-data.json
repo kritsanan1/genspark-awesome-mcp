@@ -1,0 +1,5109 @@
+{
+  "metadata": {
+    "generated": "2025-11-15T05:47:52.363Z",
+    "totalTools": 285,
+    "totalCategories": 6,
+    "version": "2.0.0"
+  },
+  "categories": {
+    "Tech": {
+      "name": "Tech",
+      "count": 111,
+      "subcategories": {
+        "Artificial Intelligence (AI)": {
+          "name": "Artificial Intelligence (AI)",
+          "count": 11
+        },
+        "Git Repos": {
+          "name": "Git Repos",
+          "count": 5
+        },
+        "Cloud and Traditional Hosting:": {
+          "name": "Cloud and Traditional Hosting:",
+          "count": 18
+        },
+        "Email Hosting:": {
+          "name": "Email Hosting:",
+          "count": 1
+        },
+        "DNS, CDN, & SSL:": {
+          "name": "DNS, CDN, & SSL:",
+          "count": 3
+        },
+        "Site Performance Tools:": {
+          "name": "Site Performance Tools:",
+          "count": 3
+        },
+        "Web Scraping Tools": {
+          "name": "Web Scraping Tools",
+          "count": 11
+        },
+        "Development IDEs/Editors (including AI-based)": {
+          "name": "Development IDEs/Editors (including AI-based)",
+          "count": 9
+        },
+        "Online Development Platforms/IDEs (including AI-based)": {
+          "name": "Online Development Platforms/IDEs (including AI-based)",
+          "count": 10
+        },
+        "AI-based Code Agents": {
+          "name": "AI-based Code Agents",
+          "count": 6
+        },
+        "Development Playgrounds": {
+          "name": "Development Playgrounds",
+          "count": 4
+        },
+        "Local Development Environments": {
+          "name": "Local Development Environments",
+          "count": 5
+        },
+        "Utilities:": {
+          "name": "Utilities:",
+          "count": 5
+        },
+        "Testing and Code Insights": {
+          "name": "Testing and Code Insights",
+          "count": 2
+        },
+        "Email Service for Developers": {
+          "name": "Email Service for Developers",
+          "count": 14
+        },
+        "Notification (Push, SMS etc) Service for Developers": {
+          "name": "Notification (Push, SMS etc) Service for Developers",
+          "count": 3
+        },
+        "Changelog": {
+          "name": "Changelog",
+          "count": 1
+        }
+      }
+    },
+    "Business, Marketing, Sales, Finance": {
+      "name": "Business, Marketing, Sales, Finance",
+      "count": 75,
+      "subcategories": {
+        "Idea Validation": {
+          "name": "Idea Validation",
+          "count": 2
+        },
+        "Content Management Systems (CMS):": {
+          "name": "Content Management Systems (CMS):",
+          "count": 3
+        },
+        "Ecommerce CMS:": {
+          "name": "Ecommerce CMS:",
+          "count": 5
+        },
+        "Analytics:": {
+          "name": "Analytics:",
+          "count": 5
+        },
+        "Accounting & Finance": {
+          "name": "Accounting & Finance",
+          "count": 2
+        },
+        "CRM:": {
+          "name": "CRM:",
+          "count": 6
+        },
+        "Team Chat": {
+          "name": "Team Chat",
+          "count": 6
+        },
+        "Customer Support/Live Chat:": {
+          "name": "Customer Support/Live Chat:",
+          "count": 6
+        },
+        "Social Media": {
+          "name": "Social Media",
+          "count": 7
+        },
+        "Sales & Marketing:": {
+          "name": "Sales & Marketing:",
+          "count": 26
+        },
+        "Web Experimentation:": {
+          "name": "Web Experimentation:",
+          "count": 4
+        },
+        "Blogging, Writing:": {
+          "name": "Blogging, Writing:",
+          "count": 3
+        }
+      }
+    },
+    "Productivity, Management, Organization": {
+      "name": "Productivity, Management, Organization",
+      "count": 52,
+      "subcategories": {
+        "Note-taking & Reading:": {
+          "name": "Note-taking & Reading:",
+          "count": 5
+        },
+        "Documentation & Collaboration": {
+          "name": "Documentation & Collaboration",
+          "count": 6
+        },
+        "Video & Screen Recording": {
+          "name": "Video & Screen Recording",
+          "count": 2
+        },
+        "Storage:": {
+          "name": "Storage:",
+          "count": 7
+        },
+        "Project/Task Management:": {
+          "name": "Project/Task Management:",
+          "count": 20
+        },
+        "Calendar": {
+          "name": "Calendar",
+          "count": 4
+        },
+        "Attendance & Time Tracking:": {
+          "name": "Attendance & Time Tracking:",
+          "count": 8
+        }
+      }
+    },
+    "Productivity Techniques": {
+      "name": "Productivity Techniques",
+      "count": 3,
+      "subcategories": {}
+    },
+    "Graphics, Design, and Media": {
+      "name": "Graphics, Design, and Media",
+      "count": 39,
+      "subcategories": {
+        "Video making:": {
+          "name": "Video making:",
+          "count": 7
+        },
+        "Stock Photos/Illustrations/Icons:": {
+          "name": "Stock Photos/Illustrations/Icons:",
+          "count": 9
+        },
+        "Online Logo:": {
+          "name": "Online Logo:",
+          "count": 10
+        },
+        "Designing & Editing:": {
+          "name": "Designing & Editing:",
+          "count": 13
+        }
+      }
+    },
+    "Security and Privacy": {
+      "name": "Security and Privacy",
+      "count": 5,
+      "subcategories": {
+        "Password Managers": {
+          "name": "Password Managers",
+          "count": 4
+        },
+        "Virtual Private Networks (VPN)": {
+          "name": "Virtual Private Networks (VPN)",
+          "count": 1
+        }
+      }
+    }
+  },
+  "tools": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "description": "",
+      "url": "https://chatgpt.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "description": "",
+      "url": "https://claude.ai",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "description": "",
+      "url": "https://www.deepseek.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-gemini",
+      "name": "Google Gemini",
+      "description": "",
+      "url": "https://gemini.google.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft CoPilot",
+      "description": "",
+      "url": "https://copilot.microsoft.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "description": "",
+      "url": "https://grok.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "description": "",
+      "url": "https://www.perplexity.ai",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pi",
+      "name": "Pi",
+      "description": "",
+      "url": "https://pi.ai",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "description": "",
+      "url": "https://www.kimi.com",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "description": "",
+      "url": "https://manus.im",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "lumo",
+      "name": "Lumo",
+      "description": "",
+      "url": "https://lumo.proton.me",
+      "category": "Tech",
+      "subcategory": "Artificial Intelligence (AI)",
+      "tags": [
+        "tech",
+        "artificial-intelligence-(ai)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "description": "",
+      "url": "https://github.com",
+      "category": "Tech",
+      "subcategory": "Git Repos",
+      "tags": [
+        "tech",
+        "git-repos"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "bitbucket",
+      "name": "BitBucket",
+      "description": "",
+      "url": "https://bitbucket.com",
+      "category": "Tech",
+      "subcategory": "Git Repos",
+      "tags": [
+        "tech",
+        "git-repos"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "gitlab",
+      "name": "GitLab",
+      "description": "",
+      "url": "https://gitlab.com",
+      "category": "Tech",
+      "subcategory": "Git Repos",
+      "tags": [
+        "tech",
+        "git-repos"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "azure-repos",
+      "name": "Azure Repos",
+      "description": "",
+      "url": "https://azure.microsoft.com/en",
+      "category": "Tech",
+      "subcategory": "Git Repos",
+      "tags": [
+        "tech",
+        "git-repos"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "amazon-aws-codecommit",
+      "name": "Amazon AWS CodeCommit",
+      "description": "",
+      "url": "https://aws.amazon.com/codecommit/",
+      "category": "Tech",
+      "subcategory": "Git Repos",
+      "tags": [
+        "tech",
+        "git-repos"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "amazon-aws-free-tier-available",
+      "name": "Amazon AWS (Free tier available)",
+      "description": "",
+      "url": "https://aws.amazon.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-azure-free-tier-available",
+      "name": "Microsoft Azure (Free tier available)",
+      "description": "",
+      "url": "https://azure.microsoft.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-cloud-free-tier-available",
+      "name": "Google Cloud (Free tier available)",
+      "description": "",
+      "url": "https://cloud.google.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "digital-ocean-free-tier-available",
+      "name": "Digital Ocean (Free tier available)",
+      "description": "",
+      "url": "https://digitalocean.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "vultr-paid-plan",
+      "name": "Vultr (Paid plan)",
+      "description": "",
+      "url": "https://vultr.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "heroku-paid-plan",
+      "name": "Heroku (Paid plan)",
+      "description": "",
+      "url": "https://www.heroku.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "bluehost-paid-plan",
+      "name": "BlueHost (Paid plan)",
+      "description": "",
+      "url": "https://www.bluehost.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "dreamhost-paid-plan",
+      "name": "DreamHost (Paid plan)",
+      "description": "",
+      "url": "https://www.dreamhost.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "flyio-paid-plan",
+      "name": "Fly.io (Paid plan)",
+      "description": "",
+      "url": "https://fly.io",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloudflare-page",
+      "name": "CloudFlare Page",
+      "description": "",
+      "url": "https://pages.cloudflare.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloudflare-workers",
+      "name": "CloudFlare Workers",
+      "description": "",
+      "url": "https://workers.cloudflare.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "github-pages",
+      "name": "GitHub pages",
+      "description": "",
+      "url": "https://pages.github.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-firebase",
+      "name": "Google FireBase",
+      "description": "",
+      "url": "https://firebase.google.com/products/hosting",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:",
+        "hosting"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "netlify",
+      "name": "Netlify",
+      "description": "",
+      "url": "https://www.netlify.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "description": "",
+      "url": "https://vercel.com",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "amazon-s3",
+      "name": "Amazon S3",
+      "description": "",
+      "url": "https://aws.amazon.com/s3/",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "surge",
+      "name": "Surge",
+      "description": "",
+      "url": "https://surge.sh",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "kinsta",
+      "name": "Kinsta",
+      "description": "",
+      "url": "https://kinsta.com/static",
+      "category": "Tech",
+      "subcategory": "Cloud and Traditional Hosting:",
+      "tags": [
+        "tech",
+        "cloud-and-traditional-hosting:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "lark-email",
+      "name": "Lark Email",
+      "description": "",
+      "url": "https://www.larksuite.com/en_us/product/email",
+      "category": "Tech",
+      "subcategory": "Email Hosting:",
+      "tags": [
+        "tech",
+        "email-hosting:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloudflare",
+      "name": "CloudFlare",
+      "description": "",
+      "url": "https://www.cloudflare.com/",
+      "category": "Tech",
+      "subcategory": "DNS, CDN, & SSL:",
+      "tags": [
+        "tech",
+        "dns,-cdn,-&-ssl:",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloudns",
+      "name": "ClouDNS",
+      "description": "",
+      "url": "https://cloudns.net/",
+      "category": "Tech",
+      "subcategory": "DNS, CDN, & SSL:",
+      "tags": [
+        "tech",
+        "dns,-cdn,-&-ssl:",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "lets-encrypt",
+      "name": "Let's Encrypt",
+      "description": "",
+      "url": "https://letsencrypt.org/",
+      "category": "Tech",
+      "subcategory": "DNS, CDN, & SSL:",
+      "tags": [
+        "tech",
+        "dns,-cdn,-&-ssl:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "page-gym",
+      "name": "Page Gym",
+      "description": "",
+      "url": "https://pagegym.com",
+      "category": "Tech",
+      "subcategory": "Site Performance Tools:",
+      "tags": [
+        "tech",
+        "site-performance-tools:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pingdom-httptoolspingdomcomfpt-pingdomcom",
+      "name": "Pingdom http://tools.pingdom.com/fpt\tpingdom.com",
+      "description": "Website monitor",
+      "url": "",
+      "category": "Tech",
+      "subcategory": "Site Performance Tools:",
+      "tags": [
+        "tech",
+        "site-performance-tools:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "web-page-performance-test",
+      "name": "Web Page Performance Test",
+      "description": "",
+      "url": "http://www.webpagetest.org/",
+      "category": "Tech",
+      "subcategory": "Site Performance Tools:",
+      "tags": [
+        "tech",
+        "site-performance-tools:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "importio",
+      "name": "Import.io",
+      "description": "",
+      "url": "https://www.import.io/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "web-hose",
+      "name": "Web Hose",
+      "description": "",
+      "url": "https://webhose.io/scraping",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "dexiio",
+      "name": "Dexi.io",
+      "description": "",
+      "url": "https://dexi.io/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "parse-hub",
+      "name": "Parse Hub",
+      "description": "",
+      "url": "https://www.parsehub.com/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "80legs",
+      "name": "80Legs",
+      "description": "",
+      "url": "http://80legs.com/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "scraping-hub",
+      "name": "Scraping Hub",
+      "description": "",
+      "url": "https://scrapinghub.com/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "scrapy",
+      "name": "Scrapy",
+      "description": "",
+      "url": "https://scrapy.org/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "scraper",
+      "name": "Scraper",
+      "description": "",
+      "url": "https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "web-scraper",
+      "name": "Web Scraper",
+      "description": "",
+      "url": "https://chrome.google.com/webstore/detail/web",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "scraping-api",
+      "name": "Scraping API",
+      "description": "",
+      "url": "https://www.abstractapi.com/web",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "browserbase",
+      "name": "Browserbase",
+      "description": "",
+      "url": "https://www.browserbase.com/",
+      "category": "Tech",
+      "subcategory": "Web Scraping Tools",
+      "tags": [
+        "tech",
+        "web-scraping-tools"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-visual-studio-code-vscode",
+      "name": "Microsoft Visual Studio Code (VSCode)",
+      "description": "",
+      "url": "https://code.visualstudio.com",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-visual-studio-ide",
+      "name": "Microsoft Visual Studio\t(IDE)",
+      "description": "",
+      "url": "https://www.visualstudio.com",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "sublime-text",
+      "name": "Sublime Text",
+      "description": "",
+      "url": "https://www.sublimetext.com",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "webstorm",
+      "name": "WebStorm",
+      "description": "",
+      "url": "https://www.jetbrains.com/webstorm",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "netbeans",
+      "name": "NetBeans",
+      "description": "",
+      "url": "http://netbeans.org",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "eclipse",
+      "name": "Eclipse",
+      "description": "",
+      "url": "https://eclipse.org",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cursor-ai-based",
+      "name": "Cursor (AI based)",
+      "description": "",
+      "url": "https://cursor.com",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "windsurf-ai-based",
+      "name": "Windsurf (AI based)",
+      "description": "",
+      "url": "https://codeium.com/windsurf",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "ai-for-developers-directory",
+      "name": "AI For Developers (Directory)",
+      "description": "",
+      "url": "https://aifordevelopers.org",
+      "category": "Tech",
+      "subcategory": "Development IDEs/Editors (including AI-based)",
+      "tags": [
+        "tech",
+        "development-ides/editors-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "firebase-studio-ai-based-by-google",
+      "name": "Firebase Studio (AI based) by Google",
+      "description": "",
+      "url": "https://firebase.studio",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "vscode-for-web",
+      "name": "VSCode for Web",
+      "description": "",
+      "url": "https://vscode.dev",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "codeanywhere",
+      "name": "CodeAnywhere",
+      "description": "",
+      "url": "https://codeanywhere.com",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloud9",
+      "name": "Cloud9",
+      "description": "",
+      "url": "https://c9.io",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "koding",
+      "name": "Koding",
+      "description": "",
+      "url": "https://koding.com",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "humanitec",
+      "name": "Humanitec",
+      "description": "",
+      "url": "https://humanitec.com",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "boltnew-ai-baseed",
+      "name": "Bolt.new (AI baseed)",
+      "description": "",
+      "url": "https://bolt.new",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "lovable-ai-based",
+      "name": "Lovable (AI based)",
+      "description": "",
+      "url": "https://lovable.dev",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "replit-ai-based",
+      "name": "Replit (AI based)",
+      "description": "",
+      "url": "https://replit.com",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "v0-by-vercel-ai-based",
+      "name": "v0 by Vercel (AI based)",
+      "description": "",
+      "url": "https://v0.dev",
+      "category": "Tech",
+      "subcategory": "Online Development Platforms/IDEs (including AI-based)",
+      "tags": [
+        "tech",
+        "online-development-platforms/ides-(including-ai-based)",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "description": "",
+      "url": "https://github.com/features/copilot",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "description": "",
+      "url": "https://windsurf.com/plugins",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-gemini-code-assist",
+      "name": "Google Gemini Code Assist",
+      "description": "",
+      "url": "https://codeassist.google",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "qodo",
+      "name": "Qodo",
+      "description": "",
+      "url": "https://www.qodo.ai",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tabnine",
+      "name": "TabNine",
+      "description": "",
+      "url": "https://www.tabnine.com",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cline",
+      "name": "Cline",
+      "description": "",
+      "url": "https://cline.bot",
+      "category": "Tech",
+      "subcategory": "AI-based Code Agents",
+      "tags": [
+        "tech",
+        "ai-based-code-agents"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "jsfiddle",
+      "name": "JSFiddle",
+      "description": "",
+      "url": "https://jsfiddle.net",
+      "category": "Tech",
+      "subcategory": "Development Playgrounds",
+      "tags": [
+        "tech",
+        "development-playgrounds"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "plunker",
+      "name": "Plunker",
+      "description": "",
+      "url": "https://plnkr.co/",
+      "category": "Tech",
+      "subcategory": "Development Playgrounds",
+      "tags": [
+        "tech",
+        "development-playgrounds"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "codepen",
+      "name": "CodePen",
+      "description": "",
+      "url": "http://codepen.io/",
+      "category": "Tech",
+      "subcategory": "Development Playgrounds",
+      "tags": [
+        "tech",
+        "development-playgrounds"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "jsbin",
+      "name": "JSBin",
+      "description": "",
+      "url": "https://jsbin.com/",
+      "category": "Tech",
+      "subcategory": "Development Playgrounds",
+      "tags": [
+        "tech",
+        "development-playgrounds"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "description": "",
+      "url": "https://www.docker.com",
+      "category": "Tech",
+      "subcategory": "Local Development Environments",
+      "tags": [
+        "tech",
+        "local-development-environments"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "laragon",
+      "name": "Laragon",
+      "description": "",
+      "url": "https://laragon.org",
+      "category": "Tech",
+      "subcategory": "Local Development Environments",
+      "tags": [
+        "tech",
+        "local-development-environments"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "xampp",
+      "name": "XAMPP",
+      "description": "",
+      "url": "https://www.apachefriends.org",
+      "category": "Tech",
+      "subcategory": "Local Development Environments",
+      "tags": [
+        "tech",
+        "local-development-environments"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "laravel-herd",
+      "name": "Laravel Herd",
+      "description": "",
+      "url": "https://herd.laravel.com",
+      "category": "Tech",
+      "subcategory": "Local Development Environments",
+      "tags": [
+        "tech",
+        "local-development-environments"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "local-for-wordpress",
+      "name": "Local (for WordPress)",
+      "description": "",
+      "url": "https://localwp.com",
+      "category": "Tech",
+      "subcategory": "Local Development Environments",
+      "tags": [
+        "tech",
+        "local-development-environments"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "filezilla",
+      "name": "FileZilla",
+      "description": "",
+      "url": "https://filezilla",
+      "category": "Tech",
+      "subcategory": "Utilities:",
+      "tags": [
+        "tech",
+        "utilities:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "freefilesync",
+      "name": "FreeFileSync",
+      "description": "",
+      "url": "https://freefilesync.org/",
+      "category": "Tech",
+      "subcategory": "Utilities:",
+      "tags": [
+        "tech",
+        "utilities:"
+      ],
+      "pricing": "free",
+      "aiBased": false,
+      "popular": false,
+      "free": true,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cryptomator",
+      "name": "CryptoMator",
+      "description": "",
+      "url": "https://cryptomator.org/",
+      "category": "Tech",
+      "subcategory": "Utilities:",
+      "tags": [
+        "tech",
+        "utilities:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "winscp",
+      "name": "WinScp",
+      "description": "",
+      "url": "https://winscp.net",
+      "category": "Tech",
+      "subcategory": "Utilities:",
+      "tags": [
+        "tech",
+        "utilities:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "putty",
+      "name": "Putty",
+      "description": "",
+      "url": "http://www.putty.org/",
+      "category": "Tech",
+      "subcategory": "Utilities:",
+      "tags": [
+        "tech",
+        "utilities:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "sauce-labs",
+      "name": "Sauce Labs",
+      "description": "",
+      "url": "https://saucelabs.com/",
+      "category": "Tech",
+      "subcategory": "Testing and Code Insights",
+      "tags": [
+        "tech",
+        "testing-and-code-insights"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "code-climate",
+      "name": "Code Climate",
+      "description": "",
+      "url": "https://codeclimate.com",
+      "category": "Tech",
+      "subcategory": "Testing and Code Insights",
+      "tags": [
+        "tech",
+        "testing-and-code-insights"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "resend",
+      "name": "Resend",
+      "description": "",
+      "url": "https://resend.com/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "brevo-ex-sendinblue",
+      "name": "Brevo (Ex Sendinblue)",
+      "description": "",
+      "url": "https://www.brevo.com/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mailgun",
+      "name": "MailGun",
+      "description": ",",
+      "url": "http://www.mailgun.com",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "sendgrid",
+      "name": "SendGrid",
+      "description": "",
+      "url": "https://sendgrid.com",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mailchimp",
+      "name": "MailChimp",
+      "description": "",
+      "url": "https://mailchimp.com",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mandrill",
+      "name": "Mandrill",
+      "description": "",
+      "url": "http://www.mandrill.com/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "aws-ses",
+      "name": "AWS SES",
+      "description": "",
+      "url": "https://aws.amazon.com/ses/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "sweego",
+      "name": "Sweego",
+      "description": "",
+      "url": "https://www.sweego.io/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "elastic-email",
+      "name": "Elastic Email",
+      "description": "",
+      "url": "https://elasticemail.com/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "forwardemail",
+      "name": "ForwardEmail",
+      "description": "",
+      "url": "https://forwardemail.net/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mx-toolbox",
+      "name": "MX Toolbox",
+      "description": "",
+      "url": "https://mxtoolbox.com/SuperTool.aspx",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "dmarcian",
+      "name": "DMarcian",
+      "description": "",
+      "url": "https://dmarcian.com/dmarc",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mail-trap-for-testing-only",
+      "name": "Mail Trap (for testing only)",
+      "description": "",
+      "url": "https://mailtrap.io/",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "email-validation-api",
+      "name": "Email Validation API",
+      "description": "",
+      "url": "https://www.abstractapi.com/email",
+      "category": "Tech",
+      "subcategory": "Email Service for Developers",
+      "tags": [
+        "tech",
+        "email-service-for-developers",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "onesignal",
+      "name": "OneSignal",
+      "description": "",
+      "url": "https://onesignal.com",
+      "category": "Tech",
+      "subcategory": "Notification (Push, SMS etc) Service for Developers",
+      "tags": [
+        "tech",
+        "notification-(push,-sms-etc)-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pusher",
+      "name": "Pusher",
+      "description": "",
+      "url": "https://pusher.com",
+      "category": "Tech",
+      "subcategory": "Notification (Push, SMS etc) Service for Developers",
+      "tags": [
+        "tech",
+        "notification-(push,-sms-etc)-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "twilio",
+      "name": "Twilio",
+      "description": "",
+      "url": "https://www.twilio.com",
+      "category": "Tech",
+      "subcategory": "Notification (Push, SMS etc) Service for Developers",
+      "tags": [
+        "tech",
+        "notification-(push,-sms-etc)-service-for-developers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "headway",
+      "name": "Headway",
+      "description": "",
+      "url": "https://headwayapp.co/",
+      "category": "Tech",
+      "subcategory": "Changelog",
+      "tags": [
+        "tech",
+        "changelog"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "areyouinterested",
+      "name": "AreYouInterested",
+      "description": "",
+      "url": "https://areyouinterested.co/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Idea Validation",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "idea-validation"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "surveywave",
+      "name": "SurveyWave",
+      "description": "",
+      "url": "http://surveywave.xyz/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Idea Validation",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "idea-validation"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "wordpress",
+      "name": "WordPress",
+      "description": "",
+      "url": "https://www.wordpress.org",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Content Management Systems (CMS):",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "content-management-systems-(cms):"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "drupal",
+      "name": "Drupal",
+      "description": "",
+      "url": "https://www.drupal.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Content Management Systems (CMS):",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "content-management-systems-(cms):"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "joomla",
+      "name": "Joomla",
+      "description": "",
+      "url": "https://www.joomla.org",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Content Management Systems (CMS):",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "content-management-systems-(cms):"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "woocommerce-for-wordpress",
+      "name": "WooCommerce for WordPress",
+      "description": "",
+      "url": "https://www.woocommerce.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Ecommerce CMS:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "ecommerce-cms:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "magento",
+      "name": "Magento",
+      "description": "",
+      "url": "https://www.magento.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Ecommerce CMS:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "ecommerce-cms:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "opencart",
+      "name": "OpenCart",
+      "description": "",
+      "url": "https://www.opencart.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Ecommerce CMS:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "ecommerce-cms:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "prestashop",
+      "name": "Prestashop",
+      "description": "",
+      "url": "https://www.prestashop.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Ecommerce CMS:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "ecommerce-cms:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "shopify-paid",
+      "name": "Shopify (Paid)",
+      "description": "",
+      "url": "https://www.shopify.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Ecommerce CMS:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "ecommerce-cms:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-analytics",
+      "name": "Google Analytics",
+      "description": "",
+      "url": "https://analytics.google.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Analytics:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "analytics:",
+        "analytics"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "livesession",
+      "name": "LiveSession",
+      "description": "",
+      "url": "https://livesession.io/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Analytics:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "analytics:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "amplitude",
+      "name": "Amplitude",
+      "description": "",
+      "url": "https://amplitude.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Analytics:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "analytics:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-clarity",
+      "name": "Microsoft Clarity",
+      "description": "",
+      "url": "https://clarity.microsoft.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Analytics:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "analytics:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "posthog",
+      "name": "PostHog",
+      "description": "",
+      "url": "https://posthog.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Analytics:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "analytics:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "wave-apps",
+      "name": "Wave Apps",
+      "description": "",
+      "url": "https://www.waveapps.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Accounting & Finance",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "accounting-&-finance"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "odoo-accounting",
+      "name": "Odoo Accounting",
+      "description": "",
+      "url": "https://www.odoo.com/app/accounting",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Accounting & Finance",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "accounting-&-finance"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "hubspot-crm",
+      "name": "HubSpot CRM",
+      "description": "",
+      "url": "https://www.hubspot.com/products/crm",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:",
+        "crm"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "capsule-crm",
+      "name": "Capsule CRM",
+      "description": "",
+      "url": "https://capsulecrm.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:",
+        "crm"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "insightly",
+      "name": "Insightly",
+      "description": "",
+      "url": "https://www.insightly.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "bitrix24-crm-version",
+      "name": "Bitrix24 (CRM version)",
+      "description": "",
+      "url": "https://www.bitrix24.com/tools/crm/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:",
+        "crm"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-contacts-can-be-used-as-lightweight-crm",
+      "name": "Google Contacts (can be used as lightweight CRM)",
+      "description": "",
+      "url": "http://contacts.google.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:",
+        "crm"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "attio",
+      "name": "Attio",
+      "description": "",
+      "url": "https://attio.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "CRM:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "crm:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "description": "",
+      "url": "https://slack.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-teams",
+      "name": "Microsoft Teams",
+      "description": "",
+      "url": "https://teams.microsoft.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-chat",
+      "name": "Google Chat",
+      "description": "",
+      "url": "https://chat.google.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mattermost",
+      "name": "Mattermost",
+      "description": "",
+      "url": "https://mattermost.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "rocketchat",
+      "name": "Rocket.Chat",
+      "description": "",
+      "url": "https://rocket.chat",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "twist",
+      "name": "Twist",
+      "description": "",
+      "url": "https://twist.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Team Chat",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "team-chat"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "zendesk-chat-formerly-zopim",
+      "name": "Zendesk Chat (formerly Zopim)",
+      "description": "",
+      "url": "https://www.zopim.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "olark",
+      "name": "Olark",
+      "description": "",
+      "url": "https://www.olark.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "description": "",
+      "url": "https://web.facebook.com/business/products/messenger",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "whatsapp-for-business",
+      "name": "WhatsApp for Business",
+      "description": "",
+      "url": "https://business.whatsapp.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "livechat",
+      "name": "LiveChat",
+      "description": "",
+      "url": "https://www.livechat.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tawkto",
+      "name": "Tawk.to",
+      "description": "",
+      "url": "https://www.tawk.to",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Customer Support/Live Chat:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "customer-support/live-chat:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "description": "",
+      "url": "http://facebook.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "description": "",
+      "url": "http://twitter.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "description": "",
+      "url": "http://linkedin.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "description": "",
+      "url": "http://instagram.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "description": "",
+      "url": "https://www.pinterest.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "description": "",
+      "url": "http://youtube.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "description": "",
+      "url": "https://www.tiktok.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Social Media",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "social-media"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "description": "",
+      "url": "https://www.hubspot.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "buffer-app",
+      "name": "Buffer App",
+      "description": "",
+      "url": "https://buffer.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "hootsuite",
+      "name": "HootSuite",
+      "description": "",
+      "url": "https://hootsuite.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tweetdeck",
+      "name": "TweetDeck",
+      "description": "",
+      "url": "https://tweetdeck.twitter.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "crowdfire",
+      "name": "CrowdFire",
+      "description": "",
+      "url": "https://www.crowdfireapp.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "ubersuggest",
+      "name": "Ubersuggest",
+      "description": "",
+      "url": "http://ubersuggest.org/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "visual-website-optimizer",
+      "name": "Visual Website Optimizer",
+      "description": "",
+      "url": "https://visualwebsiteoptimizer.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tweriod",
+      "name": "Tweriod",
+      "description": "",
+      "url": "http://www.tweriod.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "my-site-auditor",
+      "name": "My Site Auditor",
+      "description": "",
+      "url": "http://mysiteauditor.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "free-traffic-increase",
+      "name": "Free traffic increase",
+      "description": "",
+      "url": "http://www.10khits.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "woobox",
+      "name": "WooBox",
+      "description": "",
+      "url": "http://woobox.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "add-shoppers",
+      "name": "Add Shoppers",
+      "description": "",
+      "url": "http://addshoppers.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "buzzsumo",
+      "name": "BuzzSumo",
+      "description": "",
+      "url": "http://buzzsumo.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "static-html-app",
+      "name": "Static html app",
+      "description": "",
+      "url": "https://statichtmlapp.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "hashtagify",
+      "name": "Hashtagify",
+      "description": "",
+      "url": "http://hashtagify.me/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "ritetag",
+      "name": "Ritetag",
+      "description": "",
+      "url": "http://ritetag.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tagboard",
+      "name": "Tagboard",
+      "description": "",
+      "url": "https://tagboard.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "trendsmap",
+      "name": "Trendsmap",
+      "description": "",
+      "url": "http://trendsmap.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "shortstack",
+      "name": "Shortstack",
+      "description": "",
+      "url": "http://www.shortstack.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "post-planner",
+      "name": "Post Planner",
+      "description": "",
+      "url": "http://www.postplanner.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "carousel-hero",
+      "name": "Carousel Hero",
+      "description": "",
+      "url": "https://carouselhero.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cello",
+      "name": "Cello",
+      "description": "",
+      "url": "https://cello.so/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "social-proof-examples",
+      "name": "Social Proof Examples",
+      "description": "",
+      "url": "https://socialproofexamples.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "website-headlines",
+      "name": "Website Headlines",
+      "description": "",
+      "url": "https://websiteheadlines.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "vidclue",
+      "name": "Vidclue",
+      "description": "",
+      "url": "https://vidclue.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "answerthepublic",
+      "name": "AnswerThePublic",
+      "description": "",
+      "url": "https://answerthepublic.com/",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Sales & Marketing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "sales-&-marketing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "vwo",
+      "name": "VWO",
+      "description": "",
+      "url": "https://vwo.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Web Experimentation:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "web-experimentation:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "posthog",
+      "name": "PostHog",
+      "description": "",
+      "url": "https://posthog.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Web Experimentation:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "web-experimentation:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "optimalux",
+      "name": "OptimalUX",
+      "description": "",
+      "url": "https://optimalux.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Web Experimentation:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "web-experimentation:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "upflowy",
+      "name": "Upflowy",
+      "description": "",
+      "url": "https://www.upflowy.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Web Experimentation:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "web-experimentation:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "substack",
+      "name": "Substack",
+      "description": "",
+      "url": "https://substack.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Blogging, Writing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "blogging,-writing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "description": "",
+      "url": "https://medium.com",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Blogging, Writing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "blogging,-writing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "description": "",
+      "url": "https://dev.to",
+      "category": "Business, Marketing, Sales, Finance",
+      "subcategory": "Blogging, Writing:",
+      "tags": [
+        "business,-marketing,-sales,-finance",
+        "blogging,-writing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "description": "",
+      "url": "https://www.notion.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Note-taking & Reading:",
+      "tags": [
+        "productivity,-management,-organization",
+        "note-taking-&-reading:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-onenote",
+      "name": "Microsoft OneNote",
+      "description": "(part of MS Office",
+      "url": "https://www.onenote.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Note-taking & Reading:",
+      "tags": [
+        "productivity,-management,-organization",
+        "note-taking-&-reading:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-keep",
+      "name": "Google Keep",
+      "description": "",
+      "url": "https://keep.google.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Note-taking & Reading:",
+      "tags": [
+        "productivity,-management,-organization",
+        "note-taking-&-reading:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "capacities",
+      "name": "Capacities",
+      "description": "",
+      "url": "https://capacities.io",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Note-taking & Reading:",
+      "tags": [
+        "productivity,-management,-organization",
+        "note-taking-&-reading:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "description": "",
+      "url": "https://obsidian.md/",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Note-taking & Reading:",
+      "tags": [
+        "productivity,-management,-organization",
+        "note-taking-&-reading:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "atlassian-confluence",
+      "name": "Atlassian Confluence",
+      "description": "",
+      "url": "https://www.atlassian.com/software/confluence",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-loop",
+      "name": "Microsoft Loop",
+      "description": "",
+      "url": "https://www.microsoft.com/en",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-word",
+      "name": "Microsoft Word",
+      "description": "",
+      "url": "https://www.microsoft.com/en",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-docs",
+      "name": "Google Docs",
+      "description": "",
+      "url": "https://docs.google.com/document/u/0/",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-excel",
+      "name": "Microsoft Excel",
+      "description": "",
+      "url": "https://www.microsoft.com/en",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-sheets",
+      "name": "Google Sheets",
+      "description": "",
+      "url": "https://docs.google.com/spreadsheets/u/0/",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Documentation & Collaboration",
+      "tags": [
+        "productivity,-management,-organization",
+        "documentation-&-collaboration"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "atlassian-loom",
+      "name": "Atlassian Loom",
+      "description": "",
+      "url": "https://www.loom.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Video & Screen Recording",
+      "tags": [
+        "productivity,-management,-organization",
+        "video-&-screen-recording"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "licecap",
+      "name": "LICEcap",
+      "description": "",
+      "url": "https://www.cockos.com/licecap",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Video & Screen Recording",
+      "tags": [
+        "productivity,-management,-organization",
+        "video-&-screen-recording"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-onedrive",
+      "name": "Microsoft OneDrive",
+      "description": "",
+      "url": "https://onedrive.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-drive",
+      "name": "Google Drive",
+      "description": "",
+      "url": "https://drive.google.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "amazon-s3",
+      "name": "Amazon S3",
+      "description": "",
+      "url": "https://aws.amazon.com/pm/serv",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "box",
+      "name": "Box",
+      "description": "",
+      "url": "https://www.box.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "mega",
+      "name": "Mega",
+      "description": "",
+      "url": "https://mega.io",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "proton-drive",
+      "name": "Proton Drive",
+      "description": "",
+      "url": "https://proton.me/drive",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cloudflare-r2",
+      "name": "Cloudflare R2",
+      "description": "",
+      "url": "https://www.cloudflare.com/developer",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Storage:",
+      "tags": [
+        "productivity,-management,-organization",
+        "storage:",
+        "cloud"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "todoist",
+      "name": "Todoist",
+      "description": "",
+      "url": "https://todoist.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "superlist",
+      "name": "Superlist",
+      "description": "",
+      "url": "https://www.superlist.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "microsoft-todo",
+      "name": "Microsoft Todo",
+      "description": "(Previously Wunderlist)",
+      "url": "https://todo.microsoft.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "anydo",
+      "name": "Any.do",
+      "description": "",
+      "url": "https://www.any.do",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tick-tick",
+      "name": "Tick Tick",
+      "description": "",
+      "url": "https://ticktick.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "meister-task",
+      "name": "Meister Task",
+      "description": "",
+      "url": "https://meistertask.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-tasks",
+      "name": "Google Tasks",
+      "description": "",
+      "url": "https://tasks.google.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "jira",
+      "name": "Jira",
+      "description": "",
+      "url": "https://www.atlassian.com/software/jira",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "description": "",
+      "url": "https://asana.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "github-projects",
+      "name": "GitHub Projects",
+      "description": "",
+      "url": "https://github.com/projects",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "trello",
+      "name": "Trello",
+      "description": "",
+      "url": "https://trello.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "airtable",
+      "name": "Airtable",
+      "description": "",
+      "url": "https://airtable.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "teamwork",
+      "name": "Teamwork",
+      "description": "",
+      "url": "https://teamwork.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "clickup",
+      "name": "ClickUp",
+      "description": "",
+      "url": "https://clickup.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "wrike",
+      "name": "Wrike",
+      "description": "",
+      "url": "https://www.wrike.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "activecollab",
+      "name": "ActiveCollab",
+      "description": "",
+      "url": "https://activecollab.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "basecamp",
+      "name": "Basecamp",
+      "description": "",
+      "url": "https://basecamp.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pivotal-tracker",
+      "name": "Pivotal Tracker",
+      "description": "",
+      "url": "https://www.pivotaltracker.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "shortcut",
+      "name": "Shortcut",
+      "description": "",
+      "url": "https://www.shortcut.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "paymo",
+      "name": "Paymo",
+      "description": "",
+      "url": "https://www.paymoapp.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Project/Task Management:",
+      "tags": [
+        "productivity,-management,-organization",
+        "project/task-management:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "google-calendar",
+      "name": "Google Calendar",
+      "description": "",
+      "url": "https://calendar.google.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Calendar",
+      "tags": [
+        "productivity,-management,-organization",
+        "calendar"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "outlook-calendar",
+      "name": "Outlook Calendar",
+      "description": "",
+      "url": "https://www.microsoft.com/en",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Calendar",
+      "tags": [
+        "productivity,-management,-organization",
+        "calendar"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "proton-calendar",
+      "name": "Proton Calendar",
+      "description": "",
+      "url": "https://proton.me/calendar",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Calendar",
+      "tags": [
+        "productivity,-management,-organization",
+        "calendar"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "calendly",
+      "name": "Calendly",
+      "description": "",
+      "url": "https://calendly.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Calendar",
+      "tags": [
+        "productivity,-management,-organization",
+        "calendar"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "toggl",
+      "name": "Toggl",
+      "description": "",
+      "url": "https://toggl.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "clockify",
+      "name": "Clockify",
+      "description": "",
+      "url": "https://clockify.me",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "timecamp",
+      "name": "TimeCamp",
+      "description": "",
+      "url": "https://www.timecamp.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "everhour",
+      "name": "Everhour",
+      "description": "",
+      "url": "https://everhour.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "my-hours",
+      "name": "My Hours",
+      "description": "",
+      "url": "https://myhours.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "paymo",
+      "name": "Paymo",
+      "description": "",
+      "url": "https://www.paymoapp.com",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "jibble",
+      "name": "Jibble",
+      "description": "",
+      "url": "https://www.jibble.io",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "connecteam",
+      "name": "Connecteam",
+      "description": "",
+      "url": "https://connecteam.com/employee",
+      "category": "Productivity, Management, Organization",
+      "subcategory": "Attendance & Time Tracking:",
+      "tags": [
+        "productivity,-management,-organization",
+        "attendance-&-time-tracking:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pomodoro-technique",
+      "name": "Pomodoro Technique",
+      "description": "",
+      "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+      "category": "Productivity Techniques",
+      "subcategory": "",
+      "tags": [
+        "productivity-techniques"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "gtd",
+      "name": "GTD",
+      "description": "",
+      "url": "https://todoist.com/productivity",
+      "category": "Productivity Techniques",
+      "subcategory": "",
+      "tags": [
+        "productivity-techniques",
+        "productivity"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "eisenhower-matrix",
+      "name": "Eisenhower Matrix",
+      "description": "",
+      "url": "https://todoist.com/productivity",
+      "category": "Productivity Techniques",
+      "subcategory": "",
+      "tags": [
+        "productivity-techniques",
+        "productivity"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "biteable",
+      "name": "Biteable",
+      "description": "",
+      "url": "https://biteable.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "powtoon",
+      "name": "Powtoon",
+      "description": "",
+      "url": "https://www.powtoon.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "animoto",
+      "name": "Animoto",
+      "description": "",
+      "url": "http://animoto.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "openshot",
+      "name": "Openshot",
+      "description": "",
+      "url": "https://www.openshot.org",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "video-captions",
+      "name": "Video captions",
+      "description": "",
+      "url": "https://subsvideo.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "veed",
+      "name": "VEED",
+      "description": "",
+      "url": "https://www.veed.io",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "tavus-ai-based",
+      "name": "Tavus (AI based)",
+      "description": "",
+      "url": "https://www.tavus.io",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Video making:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "video-making:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "unsplash",
+      "name": "Unsplash",
+      "description": "",
+      "url": "https://unsplash.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pexels",
+      "name": "Pexels",
+      "description": "",
+      "url": "https://www.pexels.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "shopify-burst",
+      "name": "Shopify Burst",
+      "description": "",
+      "url": "https://burst.shopify.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "place-image-stock-photos-generator",
+      "name": "Place Image (Stock photos generator)",
+      "description": "",
+      "url": "http://placeimg.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "undraw",
+      "name": "Undraw",
+      "description": "",
+      "url": "https://undraw.co/illustrations",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "drawkit",
+      "name": "DrawKit",
+      "description": "",
+      "url": "https://www.drawkit.io",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "excalidraw",
+      "name": "Excalidraw",
+      "description": "",
+      "url": "https://excalidraw.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "icons8",
+      "name": "Icons8",
+      "description": "",
+      "url": "https://icons8.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "favicon-generator",
+      "name": "Favicon Generator",
+      "description": "",
+      "url": "https://favicon.io",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Stock Photos/Illustrations/Icons:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "stock-photos/illustrations/icons:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "shopify-logo-maker",
+      "name": "Shopify Logo Maker",
+      "description": "",
+      "url": "https://www.shopify.com/tools/logo",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "logo-joy",
+      "name": "Logo Joy",
+      "description": "",
+      "url": "https://logojoy.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "logaster",
+      "name": "Logaster",
+      "description": "",
+      "url": "https://www.logaster.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "cool-text",
+      "name": "Cool Text",
+      "description": "",
+      "url": "http://cooltext.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "online-logo-maker-24",
+      "name": "Online Logo Maker 24",
+      "description": "",
+      "url": "http://onlinelogomaker24.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "free-logo-services",
+      "name": "Free Logo Services",
+      "description": "",
+      "url": "http://freelogoservices.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "free",
+      "aiBased": false,
+      "popular": false,
+      "free": true,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "graphic-springs",
+      "name": "Graphic Springs",
+      "description": "",
+      "url": "http://graphicsprings.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "design-mantic",
+      "name": "Design Mantic",
+      "description": "",
+      "url": "http://designmantic.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:",
+        "design"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "zillion-designs",
+      "name": "Zillion Designs",
+      "description": "",
+      "url": "http://zilliondesigns.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:",
+        "design"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "logo-maker",
+      "name": "Logo Maker",
+      "description": "",
+      "url": "http://logomaker.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Online Logo:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "online-logo:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "gamma-ai-based",
+      "name": "Gamma (AI based)",
+      "description": "",
+      "url": "https://gamma.app",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:",
+        "ai"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "canva",
+      "name": "Canva",
+      "description": "",
+      "url": "https://www.canva.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "snappa",
+      "name": "Snappa",
+      "description": "",
+      "url": "https://snappa.com",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "photoshop",
+      "name": "Photoshop",
+      "description": "",
+      "url": "http://www.adobe.com/products/photoshop.html",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "photoshop-express",
+      "name": "Photoshop Express",
+      "description": "",
+      "url": "http://www.photoshop.com/tools",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "pixlr",
+      "name": "Pixlr",
+      "description": "",
+      "url": "https://pixlr.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "fotor",
+      "name": "Fotor",
+      "description": "",
+      "url": "http://www.fotor.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "create-gif",
+      "name": "Create GIF",
+      "description": "",
+      "url": "http://gifbrewery.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "stamp-creator",
+      "name": "Stamp creator",
+      "description": "",
+      "url": "http://www.speedystamps.co.uk/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "method-draw-svg-editor",
+      "name": "Method Draw (SVG Editor)",
+      "description": "",
+      "url": "http://editor.method.ac",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "aconvert-image-to-svg-converter",
+      "name": "AConvert (Image to SVG Converter)",
+      "description": "",
+      "url": "https://www.aconvert.com/image/png",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "image-compression-and-optimization-api",
+      "name": "Image Compression and Optimization API",
+      "description": "",
+      "url": "https://www.abstractapi.com/image",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "description": "",
+      "url": "https://www.figma.com/",
+      "category": "Graphics, Design, and Media",
+      "subcategory": "Designing & Editing:",
+      "tags": [
+        "graphics,-design,-and-media",
+        "designing-&-editing:"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": true,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "proton-pass",
+      "name": "Proton Pass",
+      "description": "",
+      "url": "https://proton.me/pass",
+      "category": "Security and Privacy",
+      "subcategory": "Password Managers",
+      "tags": [
+        "security-and-privacy",
+        "password-managers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "avira-pwm",
+      "name": "Avira PWM",
+      "description": "",
+      "url": "https://passwords.avira.com",
+      "category": "Security and Privacy",
+      "subcategory": "Password Managers",
+      "tags": [
+        "security-and-privacy",
+        "password-managers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "passbolt",
+      "name": "Passbolt",
+      "description": "",
+      "url": "https://www.passbolt.com",
+      "category": "Security and Privacy",
+      "subcategory": "Password Managers",
+      "tags": [
+        "security-and-privacy",
+        "password-managers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "bitwarden",
+      "name": "BitWarden",
+      "description": "",
+      "url": "https://bitwarden.com",
+      "category": "Security and Privacy",
+      "subcategory": "Password Managers",
+      "tags": [
+        "security-and-privacy",
+        "password-managers"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    },
+    {
+      "id": "proton-vpn",
+      "name": "Proton VPN",
+      "description": "",
+      "url": "https://protonvpn.com",
+      "category": "Security and Privacy",
+      "subcategory": "Virtual Private Networks (VPN)",
+      "tags": [
+        "security-and-privacy",
+        "virtual-private-networks-(vpn)"
+      ],
+      "pricing": "unknown",
+      "aiBased": false,
+      "popular": false,
+      "free": false,
+      "addedDate": "2025-11-15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "awesome-startup-tools",
+  "version": "2.0.0",
+  "description": "An interactive web interface for awesome curated list of tools for startups",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "node build.js",
+    "dev": "npx live-server --port=3000",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "startup",
+    "tools",
+    "awesome",
+    "curated",
+    "list",
+    "interactive",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.0",
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "jspdf": "^2.5.1",
+    "papaparse": "^5.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kritsanan1/genspark-awesome-mcp.git"
+  },
+  "homepage": "https://kritsanan1.github.io/genspark-awesome-mcp/"
+}

@@ -1,5 +1,141 @@
-# Awesome list of FREE tools Startups should be using
+# 🚀 Awesome Startup Tools - Interactive Directory
+
+[![Deploy to GitHub Pages](https://github.com/kritsanan1/genspark-awesome-mcp/actions/workflows/deploy.yml/badge.svg)](https://github.com/kritsanan1/genspark-awesome-mcp/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 🌟 Interactive Web Interface
+
+**[🌐 Live Demo](https://kritsanan1.github.io/genspark-awesome-mcp/)** - Experience the full interactive directory!
+
+This project has evolved from a simple markdown list to a **comprehensive interactive web application** featuring:
+
+### ✨ Advanced Features
+
+- **🔍 Smart Search** - Fuzzy search across 285+ tools with instant results
+- **🎯 Smart Filtering** - Filter by category, pricing, AI-based tools, and more
+- **📊 Interactive Statistics** - Real-time analytics and tool popularity tracking
+- **🌓 Dark/Light Theme** - Toggle between themes with system preference detection
+- **📱 Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- **💾 Export Functionality** - Export filtered results as JSON, CSV, or PDF
+- **⚡ Fast Performance** - Optimized loading with service worker support
+- **🔧 Progressive Web App** - Install as a standalone app on your device
+
+### 🎯 Categories Covered
+
+- **🤖 Artificial Intelligence** - Chatbots, AI assistants, and ML tools
+- **💻 Development** - IDEs, version control, hosting, and deployment
+- **📊 Business & Analytics** - CRM, marketing, sales, and finance tools
+- **🎨 Design & Media** - Graphics, video editing, and creative tools
+- **📈 Productivity** - Task management, collaboration, and organization
+- **🔒 Security & Privacy** - Password managers, VPNs, and security tools
+
+---
+
+## 📋 Original Curated List
+
+*Below is the original curated list of 285+ tools for startups, now available in an interactive format above.*
+
 This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups. Feel free to suggest and contribute in this list.
+
+## 🛠️ Development
+
+### Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/kritsanan1/genspark-awesome-mcp.git
+cd genspark-awesome-mcp
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+### Project Structure
+
+```
+genspark-awesome-mcp/
+├── index.html              # Main interactive interface
+├── styles.css              # Comprehensive CSS with theming
+├── app.js                  # JavaScript application logic
+├── tools-data.json         # Structured tool data (auto-generated)
+├── parse-tools.js          # Parser for README.md → JSON
+├── build.js                # Production build script
+├── manifest.json           # PWA manifest
+├── sw.js                   # Service worker for offline
+└── README.md               # Original curated list
+```
+
+### Key Technologies
+
+- **Vanilla JavaScript** - No framework dependencies
+- **Fuse.js** - Fuzzy search functionality
+- **CSS Custom Properties** - Dynamic theming
+- **Service Worker** - Offline functionality
+- **GitHub Actions** - Automated deployment
+- **Progressive Web App** - Installable app experience
+
+---
+
+## 📊 Data & Analytics
+
+The application automatically tracks:
+- Search queries and frequency
+- Tool popularity and clicks
+- Export usage statistics
+- Theme usage patterns
+- Filter usage analytics
+
+All data is stored locally and respects user privacy.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! You can:
+
+1. **Add new tools** - Edit the README.md following the existing format
+2. **Improve features** - Submit PRs for the interactive interface
+3. **Report bugs** - Open issues for any problems
+4. **Suggest features** - Let us know what you'd like to see added
+
+### Adding New Tools
+
+Simply add tools to the README.md following this format:
+
+```markdown
+### Category Name
+- Tool Name - https://example.com - Brief description of what it does
+```
+
+The parser will automatically categorize and structure the data.
+
+---
+
+## 📜 License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- Original curated list by the startup community
+- Icons from various open-source projects
+- Built with modern web technologies
+- Deployed on GitHub Pages
+
+---
+
+## 📋 Original Curated List
 
 ## Tech
 

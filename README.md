@@ -320,6 +320,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - PostHog - https://posthog.com/
 
 ### Accounting & Finance
+- Agent Payment Node - https://github.com/nuanu-ai/agent-payment-node - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
 
